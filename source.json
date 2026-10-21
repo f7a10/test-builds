@@ -1,0 +1,35 @@
+{
+  "name": "test builds",
+  "identifier": "io.testbuilds.source",
+  "apps": [
+    {
+      "name": "Player",
+      "bundleIdentifier": "io.testbuilds.player",
+      "developerName": "test",
+      "localizedDescription": "Test build.",
+      "iconURL": "https://raw.githubusercontent.com/f7a10/test-builds/main/icon.png",
+      "tintColor": "#E0446A",
+      "versions": [
+        {
+          "version": "0.3.3",
+          "buildVersion": "10",
+          "date": "2026-10-21T23:33:07Z",
+          "localizedDescription": "Build 10",
+          "downloadURL": "https://github.com/f7a10/test-builds/releases/download/v0.3.3/app.ipa",
+          "size": 420358,
+          "sha256": "0364b6649445d67114f377dd060b1fc34caee99ae1af4994563f0952916e93ff",
+          "minOSVersion": "18.0"
+        }
+      ],
+      "version": "0.3.3",
+      "versionDate": "2026-10-21T23:33:07Z",
+      "downloadURL": "https://github.com/f7a10/test-builds/releases/download/v0.3.3/app.ipa",
+      "size": 420358,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
