@@ -11,20 +11,20 @@
       "tintColor": "#E0446A",
       "versions": [
         {
-          "version": "0.11.0",
-          "buildVersion": "21",
-          "date": "2026-10-23T01:48:09Z",
-          "localizedDescription": "Build 21",
-          "downloadURL": "https://github.com/f7a10/test-builds/releases/download/v0.11.0/app.ipa",
-          "size": 1350590,
-          "sha256": "93e414dcbc4a15585cb7c90946c688cb098c9232dbbc60e1e59a275c90338015",
+          "version": "0.12.0",
+          "buildVersion": "22",
+          "date": "2026-10-23T02:08:13Z",
+          "localizedDescription": "Build 22",
+          "downloadURL": "https://github.com/f7a10/test-builds/releases/download/v0.12.0/app.ipa",
+          "size": 1454462,
+          "sha256": "02055f0038ccf3a233d6deab98788abeea5395f0178583bcd622394e119c2cd2",
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.11.0",
-      "versionDate": "2026-10-23T01:48:09Z",
-      "downloadURL": "https://github.com/f7a10/test-builds/releases/download/v0.11.0/app.ipa",
-      "size": 1350590,
+      "version": "0.12.0",
+      "versionDate": "2026-10-23T02:08:13Z",
+      "downloadURL": "https://github.com/f7a10/test-builds/releases/download/v0.12.0/app.ipa",
+      "size": 1454462,
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
